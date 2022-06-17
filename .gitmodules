@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cyclomort"]
+	path = cyclomort
+	url = https://github.com/eligurarie/cyclomort
+	shallow = true
+	registered = true
+[submodule "marcher"]
+	path = marcher
+	url = https://github.com/eligurarie/marcher
+	shallow = true
+	registered = true
