@@ -2,9 +2,5 @@
   {
     "package": "cyclomort",
     "oncran": true
-  },
-  {
-    "package": "marcher",
-    "oncran": true
   }
 ]
