@@ -8,3 +8,8 @@
 	url = https://github.com/eligurarie/cyclomort
 	shallow = true
 	registered = true
+[submodule "marcher"]
+	path = marcher
+	url = https://github.com/eligurarie/marcher
+	shallow = true
+	registered = true
