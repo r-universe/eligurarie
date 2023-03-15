@@ -1,5 +1,9 @@
 [
   {
+    "package": "bcpa",
+    "oncran": true
+  },
+  {
     "package": "cyclomort",
     "oncran": true
   },

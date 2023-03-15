@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bcpa"]
+	path = bcpa
+	url = https://github.com/eligurarie/bcpa
+	shallow = true
+	registered = true
 [submodule "cyclomort"]
 	path = cyclomort
 	url = https://github.com/eligurarie/cyclomort
